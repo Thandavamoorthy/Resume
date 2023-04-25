@@ -303,7 +303,7 @@ p {
 }
 
 @media (max-width: 600px) {
-  .container .right_side{
+  .container .right_side {
     padding: 20px;
   }
 
@@ -327,10 +327,8 @@ p {
   .projects .ifen {
     display: none;
   }
-}
 
-@media (max-width: 410px){
-  .profileText h2{
+  .profileText h2 {
     font-size: 1.1em;
   }
 }
